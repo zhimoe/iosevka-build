@@ -8,29 +8,25 @@ exportGlyphNames = false
 [buildPlans.Iosevka.variants.design]
 one = "base"
 two = "straight-neck-serifless"
-six = "open-contour"
 eight = "two-circles"
-nine = "open-contour"
 zero = "oval-slashed"
 capital-m = "slanted-sides-hanging-serifless"
 capital-q = "detached-tailed"
 f = "flat-hook-serifless-crossbar-at-x-height"
+j = "flat-hook-serifed"
 t = "flat-hook-short-neck"
-question = "corner"
 lig-ltgteq = "slanted"
 
 [buildPlans.Iosevka.variants.italic]
 one = "base"
 two = "straight-neck-serifless"
-six = "open-contour"
 eight = "two-circles"
-nine = "open-contour"
 zero = "oval-slashed"
 capital-m = "slanted-sides-hanging-serifless"
 capital-q = "detached-tailed"
 f = "flat-hook-tailed-crossbar-at-x-height"
+j = "flat-hook-serifed"
 t = "flat-hook-short-neck"
-question = "corner"
 lig-ltgteq = "slanted"
 
 [buildPlans.Iosevka.ligations]
@@ -57,3 +53,8 @@ angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
+
+[buildPlans.Iosevka.widths.SemiExtended]
+shape = 548
+menu = 6
+css = "semi-expanded"
