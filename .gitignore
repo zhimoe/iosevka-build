@@ -1,3 +1,5 @@
-dist/
-Sarasa-Gothic/
+.DS_Store
 .idea/
+dist/
+Iosevka
+Sarasa-Gothic/
