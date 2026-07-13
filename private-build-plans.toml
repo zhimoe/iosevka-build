@@ -4,6 +4,9 @@ spacing = "term"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = false
+# no ligature
+noLigation = true
+
 
 [buildPlans.Iosevka.variants.design]
 one = "base"
@@ -33,8 +36,8 @@ lig-ltgteq = "slanted"
 inherits = "javascript"
 
 [buildPlans.Iosevka.weights.Regular]
-# use 350 weight as regular
-shape = 350
+# shape: use 350 weight as regular
+shape = 400
 menu = 400
 css = 400
 
