@@ -9,6 +9,7 @@ noLigation = true
 
 
 [buildPlans.Iosevka.variants.design]
+number-sign = "slanted"
 one = "base"
 two = "straight-neck-serifless"
 eight = "two-circles"
@@ -21,6 +22,7 @@ t = "flat-hook-short-neck"
 lig-ltgteq = "slanted"
 
 [buildPlans.Iosevka.variants.italic]
+number-sign = "slanted"
 one = "base"
 two = "straight-neck-serifless"
 eight = "two-circles"
